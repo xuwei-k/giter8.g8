@@ -1,4 +1,7 @@
 // give the user a nice default project!
+
+hoge
+
 lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
